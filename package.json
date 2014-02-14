@@ -8,8 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/themang/derrorify.git"
+    "url": "https://www.github.com/themang/derrify.git"
   },
   "author": "ashaffer",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "through": "~2.3.4",
+    "lodash": "~2.4.1",
+    "syntax-error": "~0.1.0"
+  }
 }
